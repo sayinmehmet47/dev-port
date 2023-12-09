@@ -26,7 +26,7 @@ const Greetings = () => {
             <span />
             <span />
             <span />
-            <ParticleBg type="color" bg={true} num={1} />
+            <ParticleBg type="polygon" bg={true} num={1} />
           </div>
           <Container className="py-lg-md d-flex">
             <div className="col px-0">
