@@ -153,7 +153,7 @@ export const experience = [
     role: 'Junior Full Stack Developer',
     company: 'Steiner AG',
     companylogo: '/img/icons/common/steiner.svg',
-    date: '10/2022 - Present',
+    date: '10/2022 - 02/2024',
     desc: "Contributed to the development of Collab Room, a robust and user-friendly application that meets the construction industry's project management needs. Worked closely with a cross-functional team to build the application using technologies like Nx Monorepo, NestJS, Tailwind CSS, Next.js, and PostgreSQL. Additionally, used Playwright to develop and maintain end-to-end tests to ensure the scalability and quality of the application.",
   },
   {
